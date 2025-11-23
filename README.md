@@ -4,7 +4,7 @@ Generate hyperlapse videos from Google Street View panoramas using the Google Ma
 
 ## Example
 
-Example videos generated with this program:
+Example videos generated with this program: https://www.youtube.com/watch?v=rnyDKRLcgVc&list=PL561EFKo4EBD9_QUPP5TOLFGtjh5tVLxi&index=1
 
 [![GSV Hyperlapse Example](https://img.youtube.com/vi/rnyDKRLcgVc/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PL561EFKo4EBD9_QUPP5TOLFGtjh5tVLxi)
 
@@ -77,3 +77,4 @@ You can adjust various settings in `config.py`:
 ## Disclaimer
 
 This tool uses the internal Google Street View API for streetview imagery and metadata retrieval. Use at your own risk.
+
