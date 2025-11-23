@@ -1,0 +1,8 @@
+python-dotenv
+requests
+polyline
+geopy
+numpy
+opencv-python
+aiohttp
+tqdm
