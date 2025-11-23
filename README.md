@@ -26,7 +26,7 @@ Note: Downloading panoramas (at 1920x1080 resolution) take around 0.4-0.6 second
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/AndreasNordin-kth/GSV-Hyperlapse.git
+    git clone https://github.com/AndreasNordin-kth/GSV-hyperlapse.git
     ```
 
 2.  **Install dependencies:**
@@ -77,4 +77,5 @@ You can adjust various settings in `config.py`:
 ## Disclaimer
 
 This tool uses the internal Google Street View API for streetview imagery and metadata retrieval. Use at your own risk.
+
 
